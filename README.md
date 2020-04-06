@@ -5,7 +5,8 @@ The majority of the schematic is based on examples from the datasheet.
 
 This module also includes an ATMEGA328P for the very critical purpose of animating the slider shaft leds in time with each envelope stage.
 
-## Specs
+| Specs ||
+|---    |---  |
 | Size  | 12U |
 | Power | ?mA, +/-12V, 10 pin |
 | Depth | 25mm |
